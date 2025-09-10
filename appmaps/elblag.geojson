@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "elblag",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.207707641040727, 54.087391668374885 ], [ 19.207707641040727, 54.393590267809266 ], [ 19.515588650362112, 54.393590267809266 ], [ 19.515588650362112, 54.087391668374885 ], [ 19.207707641040727, 54.087391668374885 ] ] ] } }
+]
+}
